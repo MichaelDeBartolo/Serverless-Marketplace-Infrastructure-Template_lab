@@ -1,4 +1,4 @@
-Serverless Marketplace Infrastructure Template (Versione Completa per GitHub)
+--- Serverless Marketplace Infrastructure Template (Versione Completa per GitHub) ---
 Questo repository contiene l'architettura infrastrutturale backend, serverless ed Event-Driven per un marketplace generico ad alte prestazioni, scalabile ed "Edge-first". Il progetto è nativamente focalizzato sulla sicurezza granulare del dato, sull'isolamento multi-tenant e sulla resilienza dei flussi logistici e di pagamento automatizzati tramite terze parti.
 
 🛠️ Stack Tecnologico & Architettura
@@ -82,8 +82,6 @@ SHIPPING_API_BASE_URL=https://api.provider.com/v1
 
 # --- SYSTEM SECURITY & EMERGENCY RECOVERY ---
 RETRY_SHIPPING_SECRET=un_segreto_ad_alta_entropia_memorizzato_nel_vault
-📄 Licenza
-Questo progetto è distribuito sotto licenza MIT. Consulta il file LICENSE per ulteriori dettagli.
 
 🎯 Considerazioni Finali & AI-Driven Engineering
 Questo repository rappresenta una solida dimostrazione di ingegneria del software moderna ed "Edge-First". L'intero ciclo di progettazione, architetturazione delle API, refactoring delle Edge Functions e hardening della sicurezza è stato condotto applicando metodologie avanzate di AI-Driven Development (attraverso l'uso strategico di prompt ingegneristici complessi e l'orchestrazione dell'ambiente di sviluppo integrato tramite modelli di IA di ultima generazione).
